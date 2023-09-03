@@ -9,7 +9,6 @@ To be added
 
 ![Lua]
 ![C-Sharp]
-![C++]
 ![Unity]
 ![UnrealEngine]
 
