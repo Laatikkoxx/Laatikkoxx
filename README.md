@@ -1,5 +1,5 @@
 # Hey,
-I'm a finnish software developer, with an interest in all things creative. Mostly working on game projects.
+I'm a finnish software developer, with an interest in all things creative. I am mostly working on game projects.
 
 ## Projects
 
@@ -27,8 +27,6 @@ Discord: Laatikkoxx
 
 [![twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
