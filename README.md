@@ -1,8 +1,7 @@
 # Hey,
-I'm a finnish software developer, with an interest in all things creative. I am mostly working on game projects.
+I'm Laatikkoxx, a finnish software developer with an interest in all things creative. I am mostly working on game projects.
 
 ## Projects
-
 To be added
 
 ## Skills
@@ -25,17 +24,13 @@ To be added
 
 ## Social / Contact:
 Discord: Laatikkoxx
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- LinkedIn -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/teemuviitala
 
 <!-- Skill logos -->
-
 [Lua]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
 [Unity]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 [C++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
